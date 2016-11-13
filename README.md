@@ -1,1 +1,1 @@
-My second progect in SoftGroup
+My second project in SoftGroup
